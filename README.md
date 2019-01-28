@@ -2,7 +2,7 @@
 
 In this activity we will add the provided boilerplate to group project repos.
 
-About the APP: The Appliocation displays climate Data from 1920 to Date showing trends and change in climate parterns.
+About the APP: The Application displays climate Data from 1920 to Date showing trends and change in climate parterns.
 
 Once you clik on the country, the data should display for the years listed  up to 2012.
 
